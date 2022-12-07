@@ -1,0 +1,22 @@
+
+.controller_btn {
+  background-color: #89bce3; /* Green */
+  border: none;
+  color: rgb(29, 27, 27);
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 2px;
+  width: 70px;
+  height: 100%;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+}
+
+.controller_btn:hover {
+    background-color: #e2725a;
+    color: white;
+}

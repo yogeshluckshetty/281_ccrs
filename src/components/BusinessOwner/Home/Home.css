@@ -1,0 +1,24 @@
+.robot__table{
+    width: 90%;
+}
+.robot__table__button {
+  background-color: #4a6274; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 2px;
+  width: 70%;
+  height: 100%;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+}
+
+.robot__table__button:hover {
+    background-color: #e2725a;
+    color: white;
+  }
